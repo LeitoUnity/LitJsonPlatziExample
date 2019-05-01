@@ -1,0 +1,14 @@
+{
+  "Weapons": [
+    {
+      "id": 0,
+      "name": "Pistola Platzi",
+      "damage": 20
+    },
+    {
+      "id": 1,
+      "name": "Rifle Platzi",
+      "damage": 50
+    }
+  ]
+}
